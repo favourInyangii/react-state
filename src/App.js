@@ -14,8 +14,8 @@ class App extends Component {
     // Initialize state with person details, visibility flag, last mounted time, and interval
     this.state = {
       person: {
-        fullName: "John Doe",
-        bio: "A software engineer with 10 years of experience.",
+        fullName: "Favour Ololade Ajayi",
+        bio: "A software engineer with 2 years of experience.",
         imgSrc: crabImage, // Use imported image for person's image source
         profession: "Software Engineer"
       },
